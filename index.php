@@ -21,10 +21,10 @@
 				<form>
 					<h4>Login</h4>
 					<div class="form-group">
-						<input type="text" name="username"  class="form-control">
+						<input type="text" name="username"  class="form-control" placeholder="User name">
 					</div>
 					
-					<input type="password" name="password" class="form-control">
+					<input type="password" name="password" class="form-control" placeholder="Password">
 					<button type="submit"  class="form-control btn btn-success"> Login </button>
 				</form>
 			</div>

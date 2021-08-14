@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/procusit/public_html/Demo
+    - /bin/cp -R * $DEPLOYPATH

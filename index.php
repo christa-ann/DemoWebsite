@@ -19,7 +19,7 @@
 			<div class="col-sm-3 col-md-3 col-lg-3 colxlg-3"></div>
 			<div class="col-sm-6 col-md-6 col-lg-6 colxlg-6 text-center">
 				<form>
-					<h4>Login</h4>
+					<h4>Login Demo</h4>
 					<div class="form-group">
 						<input type="text" name="username"  class="form-control" placeholder="User name">
 					</div>

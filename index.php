@@ -14,7 +14,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-12 colxlg-12 text-center">
-				<h1>Welcome All</h1>
+				<h1>Welcome Christa</h1>
 			</div>
 			<div class="col-sm-3 col-md-3 col-lg-3 colxlg-3"></div>
 			<div class="col-sm-6 col-md-6 col-lg-6 colxlg-6 text-center">
